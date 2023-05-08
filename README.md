@@ -1,7 +1,7 @@
 # Lab 5 - Starter
 Victor Kim
 
-Expose:
+Expose:  
 [x] When you select a horn from the drop down menu, the following should occur:
 - The correct image should display
 - The correct audio sound file should be set
@@ -20,7 +20,7 @@ Expose:
   - A library has been included for you to accomplish this, more on how to use it here https://github.com/loonywizard/js-confettiLinks to an external site.
   - Do not run the installation steps, or include the import statement as we have already installed and imported the confetti library for you 
 
-Explore:
+Explore:  
 [x] On page load, all of the available voices that you can use for your SpeechSynthesizer should be loaded and populate the “Select Voice” dropdown. (These are browser specific, so you might get different ones browser to browser).
 - When you click the “Press to Talk” button, the following should happen:
 - The text that you have typed into the “Text to speak here” textarea should be spoken out loud using the voice that you have selected
